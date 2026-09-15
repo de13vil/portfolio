@@ -22,7 +22,7 @@ const Contact = () => {
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6 sm:gap-12 w-full">
-            <a href={`mailto:${portfolioData.personal.email}`} className="flex items-center gap-3 text-secondary hover:text-primary transition-colors group">
+            <a href={`https://mail.google.com/mail/?view=cm&fs=1&to=${portfolioData.personal.email}`} target="_blank" rel="noreferrer" className="flex items-center gap-3 text-secondary hover:text-primary transition-colors group">
               <div className="w-12 h-12 rounded-full border border-border bg-[#111] flex items-center justify-center group-hover:border-accent/50 group-hover:text-accent transition-colors">
                 <Mail size={20} />
               </div>

@@ -19,7 +19,7 @@ const Footer = () => {
         <div className="flex items-center gap-6 text-sm text-secondary">
           <a href={portfolioData.personal.github} target="_blank" rel="noreferrer" className="hover:text-primary transition-colors">GitHub</a>
           <a href={portfolioData.personal.linkedin} target="_blank" rel="noreferrer" className="hover:text-primary transition-colors">LinkedIn</a>
-          <a href={`mailto:${portfolioData.personal.email}`} className="hover:text-primary transition-colors">Email</a>
+          <a href={`https://mail.google.com/mail/?view=cm&fs=1&to=${portfolioData.personal.email}`} target="_blank" rel="noreferrer" className="hover:text-primary transition-colors">Email</a>
         </div>
         
         <div className="text-xs text-secondary mt-4 md:mt-0 w-full md:w-auto text-center md:text-right">
