@@ -26,7 +26,7 @@ const Education = () => {
                 <h3 className="text-2xl font-bold text-primary mb-2">Motilal Nehru National Institute of Technology Allahabad</h3>
                 <p className="text-lg text-secondary mb-1">B.Tech — Electronics & Communication Engineering</p>
                 <div className="inline-block mt-3 px-3 py-1 bg-[#1a1a1a] border border-border rounded-full text-xs font-mono text-accent">
-                  Pre-final Year
+                  Final Year
                 </div>
               </div>
             </div>

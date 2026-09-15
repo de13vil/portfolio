@@ -1,6 +1,6 @@
 # Divyansh Meena — Software Engineer Portfolio
 
-Hi, I'm Divyansh Meena. I'm a pre-final year B.Tech student in Electronics & Communication Engineering at MNNIT Allahabad, with a strong focus on software engineering.
+Hi, I'm Divyansh Meena. I'm a final year B.Tech student in Electronics & Communication Engineering at MNNIT Allahabad, with a strong focus on software engineering.
 
 I build things for the web and solve problems with code. My primary interests lie in full-stack web development, backend systems, data structures & algorithms (DSA), and system design. 
 
