@@ -26,7 +26,7 @@ const Contact = () => {
               <div className="w-12 h-12 rounded-full border border-border bg-[#111] flex items-center justify-center group-hover:border-accent/50 group-hover:text-accent transition-colors">
                 <Mail size={20} />
               </div>
-              <span className="font-medium text-lg">Email</span>
+              <span className="font-medium text-lg">{portfolioData.personal.email}</span>
             </a>
             
             <a href={portfolioData.personal.github} target="_blank" rel="noreferrer" className="flex items-center gap-3 text-secondary hover:text-primary transition-colors group">
