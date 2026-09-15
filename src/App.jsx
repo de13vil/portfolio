@@ -7,6 +7,7 @@ import Skills from './components/Skills';
 import ProblemSolving from './components/ProblemSolving';
 import Journey from './components/Journey';
 import Education from './components/Education';
+import Achievements from './components/Achievements';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
@@ -27,6 +28,7 @@ function App() {
         <ProblemSolving />
         <Journey />
         <Education />
+        <Achievements />
         <Contact />
       </main>
 

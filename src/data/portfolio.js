@@ -67,5 +67,11 @@ export const portfolioData = {
       institution: "Personal & Hackathon Projects",
       description: "Built Deadman-Link (Conditional URL System) and MedWell — Alchemist's Grimoire (CodeSangam 2025)."
     }
+  ],
+  achievements: [
+    "Secured a global rank of 616 out of 28,885 participants in LeetCode Weekly Contest 475.",
+    "Finalist in Webster (Web Development event) at Codesangam 2025, MNNIT Allahabad.",
+    "Finalist in Innodev (ECE Department Web Development event) at the institute's annual technical fest.",
+    "Certificate of Participation in OOSC 4.0 Hackathon, Opportunity Open Source Conference (OOSC) - 4.0."
   ]
 };
